@@ -3,6 +3,7 @@
 #Update
 sudo apt-get update
 
+
 #Snaps
 sudo apt-get install snapd
 
@@ -17,7 +18,7 @@ sudo snap install pycharm-professional --classic
 #sudo snap install intellij-idea-ultimate --classic
 #sudo snap install datagrip --classic
 
-sudo apt install git
+
 
 sudo apt install curl unzip
 
@@ -39,6 +40,10 @@ sudo npm install npm -g
 sudo apt install apache2
 sudo apt install mysql-server
 sudo apt install php libapache2-mod-php php-mysql php-cli php-mbstring
+sudo apt-get install php7.2-curl
+sudo apt-get install php-xml
+sudo apt-get install php7.2-sqlite3
+
 
 
 #Composer
