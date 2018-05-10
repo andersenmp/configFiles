@@ -14,10 +14,13 @@ sudo snap install phpstorm --classic
 
 sudo snap install pycharm-professional --classic
 
-#sudo snap install webstorm --classic
+sudo snap install webstorm --classic
 #sudo snap install intellij-idea-ultimate --classic
-#sudo snap install datagrip --classic
+sudo snap install datagrip --classic
 
+sudo apt install ruby-sass
+
+sudo apt install vim
 
 
 sudo apt install curl unzip
@@ -43,6 +46,7 @@ sudo apt install php libapache2-mod-php php-mysql php-cli php-mbstring
 sudo apt-get install php7.2-curl
 sudo apt-get install php-xml
 sudo apt-get install php7.2-sqlite3
+sudo apt-get install php7.2-gd 
 
 
 
@@ -60,3 +64,4 @@ php -r "unlink('composer-setup.php');"
 sudo snap install skype --classic
 
 sudo snap install spotify --classic
+
