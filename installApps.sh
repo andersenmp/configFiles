@@ -47,7 +47,7 @@ sudo apt-get install php7.2-curl
 sudo apt-get install php-xml
 sudo apt-get install php7.2-sqlite3
 sudo apt-get install php7.2-gd 
-
+sudo apt-get install phpmyadmin
 
 
 #Composer
