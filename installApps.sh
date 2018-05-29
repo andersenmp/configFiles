@@ -22,8 +22,19 @@ sudo apt install ruby-sass
 
 sudo apt install vim
 
-
 sudo apt install curl unzip
+
+sudo apt install ubuntu-make
+
+umake web firefox-dev
+
+
+#Python 2
+sudo apt-get install python-pip
+
+#AWS CLI
+pip install awscli
+
 
 
 #Python 3.6 tools
