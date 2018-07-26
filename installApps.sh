@@ -14,15 +14,17 @@ sudo snap install phpstorm --classic
 
 sudo snap install pycharm-professional --classic
 
-sudo snap install webstorm --classic
+#sudo snap install webstorm --classic
 #sudo snap install intellij-idea-ultimate --classic
-sudo snap install datagrip --classic
+#sudo snap install datagrip --classic
 
 sudo apt install ruby-sass
 
 sudo apt install vim
 
 sudo apt install curl unzip
+
+sudo apt-get install terminator
 
 sudo apt install ubuntu-make
 
@@ -34,8 +36,6 @@ sudo apt-get install python-pip
 
 #AWS CLI
 pip install awscli
-
-
 
 #Python 3.6 tools
 sudo apt-get install python3-pip
