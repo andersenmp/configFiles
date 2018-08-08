@@ -1,11 +1,11 @@
 
 
 #Update
-sudo apt-get update
+sudo apt update
 
 
 #Snaps
-sudo apt-get install snapd
+sudo apt -y install snapd
 
 
 #Development tools
@@ -18,47 +18,47 @@ sudo snap install pycharm-professional --classic
 #sudo snap install intellij-idea-ultimate --classic
 #sudo snap install datagrip --classic
 
-sudo apt install ruby-sass
+sudo apt -y install ruby-sass
 
-sudo apt install vim
+sudo apt -y install vim
 
-sudo apt install curl unzip
+sudo apt -y install curl unzip
 
-sudo apt-get install terminator
+sudo apt -y install terminator
 
-sudo apt install ubuntu-make
+sudo apt -y install ubuntu-make
 
 umake web firefox-dev
 
 
 #Python 2
-sudo apt-get install python-pip
+sudo apt -y install python-pip
 
 #AWS CLI
 pip install awscli
 
 #Python 3.6 tools
-sudo apt-get install python3-pip
-sudo apt-get install python3-venv
+sudo apt -y install python3-pip
+sudo apt -y install python3-venv
 sudo pip3 install virtualenv
 
 #Node.js
-sudo apt install nodejs npm
+sudo apt -y install nodejs npm
 
-sudo apt-get install build-essential
+sudo apt -y install build-essential
 
 sudo npm install npm -g
 
 
 #LAMP
-sudo apt install apache2
-sudo apt install mysql-server
-sudo apt install php libapache2-mod-php php-mysql php-cli php-mbstring
-sudo apt-get install php7.2-curl
-sudo apt-get install php-xml
-sudo apt-get install php7.2-sqlite3
-sudo apt-get install php7.2-gd 
-sudo apt-get install phpmyadmin
+sudo apt -y install apache2
+sudo apt -y install mysql-server
+sudo apt -y install php libapache2-mod-php php-mysql php-cli php-mbstring
+sudo apt -y install php7.2-curl
+sudo apt -y install php-xml
+sudo apt -y install php7.2-sqlite3
+sudo apt -y install php7.2-gd 
+sudo apt -y install phpmyadmin
 
 
 #Composer
