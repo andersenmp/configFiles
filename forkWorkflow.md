@@ -36,7 +36,7 @@ $ git remote -v
 
 Type git remote add upstream, and then paste the URL you copied in Step 2 and press Enter. It will look like this:
 ```
-$ git remote add upstream https://git.com/yourloginhere/projectA.git
+$ git remote add upstream https://git.com/someoneloginhere/projectA
 ```
 
 # 4. Syncing a fork
